@@ -45,7 +45,6 @@ const EditorHeader = () => {
             <SelectItem value="html">HTML</SelectItem>
             <SelectItem value="css">CSS</SelectItem>
             <SelectItem value="javascript">JAVASCRIPT</SelectItem>
-            <SelectItem value="python">PYTHON</SelectItem>
           </SelectContent>
         </Select>
       </div>
